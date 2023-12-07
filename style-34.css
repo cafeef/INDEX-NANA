@@ -4,7 +4,8 @@
 }
 
 body{
-  background: url(./assets/backgroundindex.jpg) no-repeat top center/cover
+  background: url(./assets/backgroundindex.jpg) no-repeat top center/cover;
+  height: 100vh;
   
 }
 
@@ -16,7 +17,6 @@ body * {
 #container {
   width: 100%;
   max-width: 588px;
-  height: 100%;
   margin: 56px auto 0px;
   padding: 0px 24px;
 
